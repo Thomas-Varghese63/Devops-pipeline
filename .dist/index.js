@@ -1,0 +1,1 @@
+console.log("Hello, Im learning Devops and ci/cd!");
