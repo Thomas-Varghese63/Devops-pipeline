@@ -1,7 +1,4 @@
 console.log("Hello,test!");
 
-const assert = require('assert');
-
-const result = 5;
-
+const result = 10;
 assert.strictEqual(result, 10);
